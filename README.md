@@ -3,7 +3,7 @@
 
 I'm currently dedicating myself to the front end, but I also have a interest in the backend of the processes 🖥️
 
-If you want to know more about me and my career, here are some information: 
+If you want to know more about me and my career, here is some information: 
 - I worked on some unpaid website projects, you can check them out in my repositories.
 - My days always start after a cup of coffee ☕
 - I love how programming and the process of finishing a new project works.
