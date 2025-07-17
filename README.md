@@ -1,5 +1,5 @@
 ## Hello there! Welcome to my profile!
-#### My name is Luisa, I'm 20 years old and I'm a computer science student at the Universidade Federal do ABC. 
+#### My name is Luisa, I'm 22 years old and I'm a computer science student at the Universidade Federal do ABC. 
 
 I'm currently dedicating myself to the front end, but I also have a interest in the backend of the processes 🖥️
 
